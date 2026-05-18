@@ -1,0 +1,156 @@
+{
+  "achievements": {
+    "yearsExperience": "5+",
+    "studentsGuided": "100+",
+    "batchSuccess": "98%"
+  },
+  "why": {
+    "title": "Modern coaching built for smarter results.",
+    "description": "GurTron is not just a coaching institute. It is an intelligent education ecosystem that blends expert guidance with powerful AI tools.",
+    "rows": [
+      {
+        "label": "Delivery",
+        "old": "Offline only",
+        "neu": "Offline coaching with digital support"
+      },
+      {
+        "label": "Tests",
+        "old": "Manual test prep",
+        "neu": "AI-created timed quizzes"
+      },
+      {
+        "label": "Analytics",
+        "old": "No data insights",
+        "neu": "Batch-wide performance tracking"
+      },
+      {
+        "label": "Practice",
+        "old": "Limited sets",
+        "neu": "Regular chapter-based practice"
+      },
+      {
+        "label": "Strategy",
+        "old": "One-size coaching",
+        "neu": "Personalised exam plans"
+      }
+    ]
+  },
+  "faculty": [
+    {
+      "id": "1",
+      "name": "Manoj Sir",
+      "role": "Physics",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Vijay Sir",
+      "role": "Mathematics"
+    },
+    {
+      "id": "3",
+      "name": "Sudhir Sir",
+      "role": "Botany"
+    },
+    {
+      "id": "4",
+      "name": "Kavita Mam",
+      "role": "Zoology",
+      "image": ""
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "name": "Aditi Sharma",
+      "role": "10th Class maths",
+      "content": "GurTron made my preparation focused and consistent, with clear guidance for every chapter."
+    },
+    {
+      "id": "r2",
+      "name": "Rohit Kumar",
+      "role": "JEE Aspirant",
+      "content": "Weekly tests and mentor feedback helped me stay on track and improve my confidence."
+    },
+    {
+      "id": "r3",
+      "name": "Sneha Verma",
+      "role": "Parent",
+      "content": "My child gained real momentum with GurTron’s coaching, guidance and exam-ready practice."
+    },
+    {
+      "id": "5f9cfbef-ee71-4d28-b087-8fe9b71cd399",
+      "name": "",
+      "role": "",
+      "content": ""
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f1",
+      "q": "How does GurTron work?",
+      "a": "GurTron blends offline coaching with AI-driven tests, progress analytics and personalised practice plans."
+    },
+    {
+      "id": "f2",
+      "q": "Is digital access included?",
+      "a": "Yes, every student gets GurTron digital support as part of the program, with tests and analytics included."
+    },
+    {
+      "id": "f3",
+      "q": "Which classes are supported?",
+      "a": "We support NEET, JEE, CBSE and HBSE students across Class 11, 12 and repeaters."
+    }
+  ],
+  "contact": {
+    "phone": "+91 82958 52556",
+    "email": "info@gurtroninstitute.com",
+    "location": "Near City Kids, Sain Chowk, Narnaul, Haryana",
+    "mapsLink": "https://maps.app.goo.gl/dggbBmyUmo2CdSot6"
+  },
+  "ourStory": {
+    "title": "From a small coaching center to GurTron’s smart learning journey.",
+    "description": "GurTron started with a simple goal: help students grow with clear coaching, strong practice and gentle guidance. Today we blend classroom trust with intelligent tools to keep learning practical.",
+    "stats": [
+      {
+        "value": "12+ years",
+        "label": "Coaching"
+      },
+      {
+        "value": "NEET & JEE",
+        "label": "Focus"
+      },
+      {
+        "value": "1000+ students",
+        "label": "Reach"
+      },
+      {
+        "value": "Smart support",
+        "label": "Approach"
+      }
+    ]
+  },
+  "toppers": [
+    {
+      "id": "t1",
+      "name": "Janvi Sharma",
+      "score": "100/100",
+      "subject": "Physics",
+      "image": ""
+    },
+    {
+      "id": "t2",
+      "name": "Paramjeet Singh",
+      "score": "99.4%",
+      "subject": "Chemistry",
+      "image": ""
+    },
+    {
+      "id": "t3",
+      "name": "Yogesh Gupta",
+      "score": "99.8%",
+      "subject": "Biology",
+      "image": ""
+    }
+  ]
+}
